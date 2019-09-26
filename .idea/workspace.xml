@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d7c25e-c3bf-48ec-8dc2-6a7a75b8094d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/autoWebDownload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190923-1329-download_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190923-1330-download_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190923-1337-download_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/360se.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autodownloadNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getImageCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getImageCodeTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/yzm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/zy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/property.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qsw.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_001/SaleList_20190621192454.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_001/delivery_20190621182812.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/SaleList_20190621192725.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190619125701.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192124.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192300.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192714.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_002/SaleList_20190621192811.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_002/StoreList_20190621192800.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询 (1).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询 (2).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_005/201906211945186478.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_005/201906211945187570.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autodownload.py" beforeDir="false" afterPath="$PROJECT_DIR$/autodownload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache.png" beforeDir="false" afterPath="$PROJECT_DIR$/cache.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_snap.png" beforeDir="false" afterPath="$PROJECT_DIR$/full_snap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wdt.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wdt.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wdt.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="55" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qsw.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autodownloadNew.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1222" column="50" selection-start-line="1222" selection-start-column="50" selection-end-line="1222" selection-end-column="50" />
+              <folding>
+                <element signature="e#180#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autodownload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="76" selection-start-line="76" selection-end-line="97" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#2121#2234#0" />
+                <element signature="e#3141#3888#0" />
+                <element signature="e#4950#5403#0" />
+                <element signature="e#5448#5769#0" />
+                <element signature="e#5848#6762#0" />
+                <element signature="e#6851#8607#0" />
+                <element signature="e#26969#28613#0" />
+                <element signature="e#28691#30254#0" />
+                <element signature="e#30330#33226#0" />
+                <element signature="e#33302#35762#0" />
+                <element signature="e#43461#46242#0" />
+                <element signature="e#48246#50583#0" />
+                <element signature="e#84294#86238#0" />
+                <element signature="e#94186#96585#0" />
+                <element signature="e#96667#97967#0" />
+                <element signature="e#98043#100129#0" />
+                <element signature="e#100226#102269#0" />
+                <element signature="e#102344#105541#0" />
+                <element signature="e#109808#110033#0" />
+                <element signature="e#110112#110336#0" />
+                <element signature="e#112204#114208#0" />
+                <element signature="e#114287#116960#0" />
+                <element signature="e#117041#119155#0" />
+                <element signature="e#119236#121164#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getImageCode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>福建国大药房连锁有限公司</find>
+      <find>B_200085</find>
+      <find>华润常州医药有限公司</find>
+      <find>L_JSS80004859T</find>
+      <find>广东康美新澳医药有限公司</find>
+      <find>Y_GDSX0062283T</find>
+      <find>杭州九洲大药房连锁有限公司</find>
+      <find>Y_ZJS21007799K</find>
+      <find>浙江英特药业有限责任公司电子商务分公司</find>
+      <find>Y_ZJSX0152963T</find>
+      <find>Y_JSS21009023K</find>
+      <find>hr19</find>
+      <find>hr12</find>
+      <find>Y_SHX21001413T</find>
+      <find>hr14</find>
+      <find>Y_YNSQ0060418T</find>
+      <find>Y_HUNQ0068548T</find>
+      <find>hr39</find>
+      <find>Y_YNS21007880K</find>
+      <find>hr35</find>
+      <find>Y_FJS21000774T</find>
+      <find>hr21</find>
+      <find>Y_FJS21000760T</find>
+      <find>hr13</find>
+      <find>Y_YNS11497839T</find>
+      <find>hr11</find>
+      <find>Y_LLS21001317T</find>
+      <find>hr40</find>
+      <find>tesserocr.pyx</find>
+      <find>checkDownload</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="terrell" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/getImageCodeTwo.py" />
+        <option value="$PROJECT_DIR$/property.csv" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/autodownload.py" />
+        <option value="$PROJECT_DIR$/qsw.csv" />
+        <option value="$PROJECT_DIR$/wdt.csv" />
+        <option value="D:/Python-huanjing/Python37/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-2091497526/tesserocr/_tesserocr.py" />
+        <option value="$PROJECT_DIR$/getImageCode.py" />
+        <option value="$PROJECT_DIR$/autodownloadNew.py" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="947" />
+    <option name="y" value="17" />
+    <option name="width" value="1380" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1PwR4IFDfSr9rySJf7xjSeO21Dj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562058441631" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guanjiu\Desktop\autoWebDownload" />
+      <recent name="D:\work\idea_workspace\Python\qtTest\autoWebDownload" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.autodownloadNew">
+    <configuration name="autodownloadNew" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autodownloadNew.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getImageCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getImageCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getImageCodeTwo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getImageCodeTwo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytesseract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python-huanjing/Python37/Lib/site-packages/pytesseract" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python-huanjing/Python37/Lib/site-packages/pytesseract/pytesseract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.getImageCode" />
+      <item itemvalue="Python.autodownloadNew" />
+      <item itemvalue="Python.getImageCodeTwo" />
+      <item itemvalue="Python.pytesseract" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.autodownloadNew" />
+        <item itemvalue="Python.getImageCode" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.pytesseract" />
+        <item itemvalue="Python.getImageCodeTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d7c25e-c3bf-48ec-8dc2-6a7a75b8094d" name="Default Changelist" comment="" />
+      <created>1561011179317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561011179317</updated>
+      <workItem from="1566474295373" duration="1101000" />
+      <workItem from="1566717332596" duration="32058000" />
+      <workItem from="1566782997425" duration="48619000" />
+      <workItem from="1567053192984" duration="3515000" />
+      <workItem from="1567070541592" duration="692000" />
+      <workItem from="1567071406400" duration="7134000" />
+      <workItem from="1567129436396" duration="5301000" />
+      <workItem from="1567231100028" duration="597000" />
+      <workItem from="1567306210010" duration="32448000" />
+      <workItem from="1567400496625" duration="14790000" />
+      <workItem from="1567575054483" duration="1319000" />
+      <workItem from="1567998066176" duration="1201000" />
+      <workItem from="1568615147683" duration="11000" />
+      <workItem from="1568943650718" duration="11011000" />
+      <workItem from="1568956051592" duration="417000" />
+      <workItem from="1568962434209" duration="3268000" />
+      <workItem from="1569203607214" duration="6322000" />
+      <workItem from="1569380596700" duration="785000" />
+      <workItem from="1569465438993" duration="269000" />
+    </task>
+    <task id="LOCAL-00001" summary="已完成5家经销商自动网载程序 -- 20190621-19:52">
+      <created>1561118025386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561118025386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="已完成18家经销商自动网载程序 -- 20190626-18:29">
+      <created>1561544966115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561544966115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89080000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="758" y="14" width="1104" height="840" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39866155" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31085044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27211797" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31085044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="已完成5家经销商自动网载程序 -- 20190621-19:52" />
+    <MESSAGE value="已完成18家经销商自动网载程序 -- 20190626-18:29" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autoWebDownload$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1568964203723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$getImageCode.coverage" NAME="getImageCode Coverage Results" MODIFIED="1569215804224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$autodownloadNew.coverage" NAME="autodownloadNew Coverage Results" MODIFIED="1569217025823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1567321007791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/chrome360" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$test.coverage" NAME="test Coverage Results" MODIFIED="1566740474502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$pytesseract.coverage" NAME="pytesseract Coverage Results" MODIFIED="1568948180244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python-huanjing/Python37/Lib/site-packages/pytesseract" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$autodownload.coverage" NAME="autodownload Coverage Results" MODIFIED="1567504215660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$getImageCodeTwo.coverage" NAME="getImageCodeTwo Coverage Results" MODIFIED="1568947716986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoWebDownload$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1567343632988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/image/test2.jpg" />
+    <entry file="file://$PROJECT_DIR$/image/Y_LLSQ0035087T.jpg" />
+    <entry file="file://$PROJECT_DIR$/full_snap.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkcode.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/common/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/chrome360/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="218" column="4" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360se.exe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2300">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/chrome/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="162" column="39" selection-start-line="162" selection-start-column="35" selection-end-line="162" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190902-1710-download_file.csv" />
+    <entry file="file://$PROJECT_DIR$/yundama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="113" selection-start-line="113" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="2010" column="8" selection-start-line="2010" selection-start-column="8" selection-end-line="2010" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy.png" />
+    <entry file="file://$PROJECT_DIR$/yzm.png" />
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/pytesseract/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getImageCodeTwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2091497526/tesserocr/_tesserocr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190920-1146-download_file.csv" />
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/num01.txt" />
+    <entry file="file://$PROJECT_DIR$/image/yzm.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/Code.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/zy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/future/tests/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/test1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-2091497526/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="3628" column="8" selection-start-line="3628" selection-start-column="8" selection-end-line="3628" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/tesserocr/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/test2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-2091497526/tesserocr/_tesserocr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="95" column="65" selection-start-line="95" selection-start-column="64" selection-end-line="95" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python-huanjing/Python37/Lib/site-packages/PIL/ImageGrab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capcha.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdt.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autodownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="76" selection-start-line="76" selection-end-line="97" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2121#2234#0" />
+            <element signature="e#3141#3888#0" />
+            <element signature="e#4950#5403#0" />
+            <element signature="e#5448#5769#0" />
+            <element signature="e#5848#6762#0" />
+            <element signature="e#6851#8607#0" />
+            <element signature="e#26969#28613#0" />
+            <element signature="e#28691#30254#0" />
+            <element signature="e#30330#33226#0" />
+            <element signature="e#33302#35762#0" />
+            <element signature="e#43461#46242#0" />
+            <element signature="e#48246#50583#0" />
+            <element signature="e#84294#86238#0" />
+            <element signature="e#94186#96585#0" />
+            <element signature="e#96667#97967#0" />
+            <element signature="e#98043#100129#0" />
+            <element signature="e#100226#102269#0" />
+            <element signature="e#102344#105541#0" />
+            <element signature="e#109808#110033#0" />
+            <element signature="e#110112#110336#0" />
+            <element signature="e#112204#114208#0" />
+            <element signature="e#114287#116960#0" />
+            <element signature="e#117041#119155#0" />
+            <element signature="e#119236#121164#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autodownloadNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1222" column="50" selection-start-line="1222" selection-start-column="50" selection-end-line="1222" selection-end-column="50" />
+          <folding>
+            <element signature="e#180#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getImageCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qsw.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>autoWebDownload</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
